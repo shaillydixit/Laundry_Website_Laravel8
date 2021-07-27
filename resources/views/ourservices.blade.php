@@ -9,6 +9,92 @@
         </div>
     </div> <!-- /.overlay -->
 </div>
+<section class="flat-recent-market">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="top-title center">
+                    <h2>OUR MAIN SERVICES</h2>
+                    <p></p>
+                </div>
+            </div>
+        </div><!-- /.row -->
+
+
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="wrap-recent-text">
+                        <h2 class="title">COMMERCIAL
+                        </h2>
+
+                        <div class="content-text">
+                            <h5>Let us do the laundry for your business</h5>
+                            <p>Resources cost money—this isn’t a new phenomenon. TORQUE Laundries is finding new ways to reduce the number of resources needed per load of laundry, specifically those that can be detrimental to both the linens and the environment, like the chemicals in detergent.</p>
+                            <p>Lastly, since our machines are more efficient in the way they clean laundry, the need for launderers to rewash garments will be reduced, which will also save time. Like its said, time is money, and all of these time savings will add up to you having more money to grow your business.</p>
+                            <a href="#" class="read-more" title="">READ MORE</a>
+                        </div>
+                    </div><!-- /.wrap-recent-text -->
+                </div><!-- /.col-md-6 -->
+                <div class="col-md-6">
+                    <div class="single-image center">
+                        <img src="{{asset('img/10.jpeg')}}" alt="">
+                    </div>
+                </div><!-- /.col-md-6 -->
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+        <br><br>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="single-image center">
+                        <img src="{{asset('img/12.jpeg')}}" alt="">
+                    </div>
+                </div><!-- /.col-md-6 -->
+                <div class="col-md-6">
+                    <div class="wrap-recent-text">
+                        <h2 class="title">PICK UP & DROP SERVICES </h2>
+
+                        <div class="content-text">
+                            <h5>You Order > We Collect > We Clean > We Deliver</h5>
+                            <p>Why waste your precious time doing laundry when you can spend it with your loved ones and still get your laundry done?</p>
+                            <p>Our delivery professional will pick up your dirty clothes and deliver clean, fresh, and neatly-folded laundry right back to your door in the shortest time possible.</p>
+                            <a href="#" class="read-more" title="">READ MORE</a>
+                        </div>
+                    </div><!-- /.wrap-recent-text -->
+                </div><!-- /.col-md-6 -->
+
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+        <br><br>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="wrap-recent-text">
+                        <h2 class="title">DROP-OFF SERVICES
+                        </h2>
+
+                        <div class="content-text">
+                            <h5>Drop your laundry off in our Shop, and let us do it all for you.</h5>
+                            <p>If you need clean laundry but don't want to do it yourself, then fluff and fold is the service for you. We professionally clean your clothes and linens, and all you do is drop off and pick up from our laundromat .
+                            </p>
+                            <a href="#" class="read-more" title="">READ MORE</a>
+                        </div>
+                    </div><!-- /.wrap-recent-text -->
+                </div><!-- /.col-md-6 -->
+                <div class="col-md-6">
+                    <div class="single-image center">
+                        <img src="{{asset('img/13.jpeg')}}" alt="">
+                    </div>
+                </div><!-- /.col-md-6 -->
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+    </div>
+    </div><!-- /.iconbox style1 -->
+    </div><!-- /.col-md-4 -->
+    </div><!-- /.row -->
+    </div><!-- /.container -->
+</section><!-- /.flat-work -->
 <section class="flat-our-work">
     <div class="container">
         <div class="row">
@@ -122,92 +208,6 @@
     </div><!-- /.container -->
 </section><!-- /.flat-our-work -->
 
-<section class="flat-recent-market">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="top-title center">
-                    <h2>OUR MAIN SERVICES</h2>
-                    <p></p>
-                </div>
-            </div>
-        </div><!-- /.row -->
-
-
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6">
-                    <div class="wrap-recent-text">
-                        <h2 class="title">COMMERCIAL
-                        </h2>
-
-                        <div class="content-text">
-                            <h5>Let us do the laundry for your business</h5>
-                            <p>Resources cost money—this isn’t a new phenomenon. TORQUE Laundries is finding new ways to reduce the number of resources needed per load of laundry, specifically those that can be detrimental to both the linens and the environment, like the chemicals in detergent.</p>
-                            <p>Lastly, since our machines are more efficient in the way they clean laundry, the need for launderers to rewash garments will be reduced, which will also save time. Like its said, time is money, and all of these time savings will add up to you having more money to grow your business.</p>
-                            <a href="#" class="read-more" title="">READ MORE</a>
-                        </div>
-                    </div><!-- /.wrap-recent-text -->
-                </div><!-- /.col-md-6 -->
-                <div class="col-md-6">
-                    <div class="single-image center">
-                        <img src="{{asset('img/10.jpeg')}}" alt="">
-                    </div>
-                </div><!-- /.col-md-6 -->
-            </div><!-- /.row -->
-        </div><!-- /.container -->
-        <br><br>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6">
-                    <div class="single-image center">
-                        <img src="{{asset('img/12.jpeg')}}" alt="">
-                    </div>
-                </div><!-- /.col-md-6 -->
-                <div class="col-md-6">
-                    <div class="wrap-recent-text">
-                        <h2 class="title">PICK UP & DROP SERVICES </h2>
-
-                        <div class="content-text">
-                            <h5>You Order > We Collect > We Clean > We Deliver</h5>
-                            <p>Why waste your precious time doing laundry when you can spend it with your loved ones and still get your laundry done?</p>
-                            <p>Our delivery professional will pick up your dirty clothes and deliver clean, fresh, and neatly-folded laundry right back to your door in the shortest time possible.</p>
-                            <a href="#" class="read-more" title="">READ MORE</a>
-                        </div>
-                    </div><!-- /.wrap-recent-text -->
-                </div><!-- /.col-md-6 -->
-
-            </div><!-- /.row -->
-        </div><!-- /.container -->
-        <br><br>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6">
-                    <div class="wrap-recent-text">
-                        <h2 class="title">DROP-OFF SERVICES
-                        </h2>
-
-                        <div class="content-text">
-                            <h5>Drop your laundry off in our Shop, and let us do it all for you.</h5>
-                            <p>If you need clean laundry but don't want to do it yourself, then fluff and fold is the service for you. We professionally clean your clothes and linens, and all you do is drop off and pick up from our laundromat .
-                            </p>
-                            <a href="#" class="read-more" title="">READ MORE</a>
-                        </div>
-                    </div><!-- /.wrap-recent-text -->
-                </div><!-- /.col-md-6 -->
-                <div class="col-md-6">
-                    <div class="single-image center">
-                        <img src="{{asset('img/13.jpeg')}}" alt="">
-                    </div>
-                </div><!-- /.col-md-6 -->
-            </div><!-- /.row -->
-        </div><!-- /.container -->
-    </div>
-    </div><!-- /.iconbox style1 -->
-    </div><!-- /.col-md-4 -->
-    </div><!-- /.row -->
-    </div><!-- /.container -->
-</section><!-- /.flat-work -->
 
 <section class="flat-team">
     <div class="container">
