@@ -50,7 +50,125 @@
         </div><!-- /.row -->
     </div><!-- /.container -->
 </section><!-- /.flat-recent-market -->
-
+<section class="flat-why-choose bg-browse">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="top-title center">
+                    <h2>WHAT MAKES US THE BEST</h2>
+                    <p>Our Unique 10 Stage Process For Unmatched Garments Care</p>
+                </div>
+            </div><!-- /.col-md-12 -->
+        </div><!-- /.row -->
+        <div class="row">
+            <div class="col-md-12">
+                <div class="wrap-choose">
+                    <div class="box-left">
+                        <div class="iconbox inline-right style2 right">
+                            <div class="icon">
+                                <img src="{{asset('img/clean.png')}}" alt="">
+                            </div>
+                            <div class="iconbox-content">
+                                <h4>
+                                    STEP-1
+                                </h4>
+                                <p>We Bag up all your soiled linen</p>
+                            </div>
+                        </div><!-- /.iconbox style2 -->
+                        <div class="iconbox inline-right style2 right pdr-30">
+                            <div class="icon">
+                                <img src="{{asset('img/pick.png')}}" alt="">
+                            </div>
+                            <div class="iconbox-content">
+                                <h4>STEP-2</h4>
+                                <p>We pick up your linen to washhouse</p>
+                            </div>
+                        </div><!-- /.iconbox style2 -->
+                        <div class="iconbox inline-right style2 right pdr-30">
+                            <div class="icon">
+                                <img src="{{asset('img/washing.png')}}" alt="">
+                            </div>
+                            <div class="iconbox-content">
+                                <h4>STEP-3</h4>
+                                <p>Sorting and care labelling linen</p>
+                            </div>
+                        </div><!-- /.iconbox style2 -->
+                        <div class="iconbox inline-right style2 right pdr-30">
+                            <div class="icon">
+                                <img src="{{asset('img/inspection.png')}}" alt="">
+                            </div>
+                            <div class="iconbox-content">
+                                <h4>STEP-4</h4>
+                                <p>StainInspection</p>
+                            </div>
+                        </div><!-- /.iconbox style2 -->
+                        <div class="iconbox inline-right style2 right">
+                            <div class="icon">
+                                <img src="{{asset('img/laundry-soap.png')}}" alt="">
+                            </div>
+                            <div class="iconbox-content">
+                                <h4>STEP-5</h4>
+                                <p>Stain Treatment</p>
+                            </div>
+                        </div><!-- /.iconbox style2 -->
+                    </div><!-- /.box-left -->
+                    <div class="box-center">
+                        <div class="single-image">
+                            <img src="{images/page/coin.png}" alt="">
+                        </div>
+                    </div><!-- /.box-center -->
+                    <div class="box-right">
+                        <div class="iconbox inline-left style2 left">
+                            <div class="icon">
+                                <img src="{{asset('img/laundry.png')}}" alt="">
+                            </div>
+                            <div class="iconbox-content">
+                                <h4>STEP-6</h4>
+                                <p>Processingand Disinfection</p>
+                            </div>
+                        </div><!-- /.iconbox style2 -->
+                        <div class="iconbox inline-left style2 left pdl-30">
+                            <div class="icon">
+                                <img src="{{asset('img/ironing-board.png')}}" alt="">
+                            </div>
+                            <div class="iconbox-content">
+                                <h4>STEP-7</h4>
+                                <p>Finishing</p>
+                            </div>
+                        </div><!-- /.iconbox style2 -->
+                        <div class="iconbox inline-left style2 left pdl-30">
+                            <div class="icon">
+                                <img src="{{asset('img/shield.png')}}" alt="">
+                            </div>
+                            <div class="iconbox-content">
+                                <h4>STEP-8</h4>
+                                <p>Quality Check</p>
+                            </div>
+                        </div><!-- /.iconbox style2 -->
+                        <div class="iconbox inline-left style2 left pdl-30">
+                            <div class="icon">
+                                <img src="{{asset('img/packag.png')}}" alt="">
+                            </div>
+                            <div class="iconbox-content">
+                                <h4>STEP-9</h4>
+                                <p>Packaging</p>
+                            </div>
+                        </div><!-- /.iconbox style2 -->
+                        <div class="iconbox inline-left style2 left">
+                            <div class="icon">
+                                <img src="{{asset('img/folded.png')}}" style="width: 65px; height: 55px;" alt="">
+                            </div>
+                            <div class="iconbox-content">
+                                <h4>STEP-10</h4>
+                                <p>We Deliver Back Clean Folded Linen</p>
+                            </div>
+                        </div><!-- /.iconbox style2 -->
+                    </div><!-- /.box-right -->
+                </div><!-- /.wrap-choose -->
+            </div><!-- /.col-md-12 -->
+        </div><!-- /.row -->
+    </div><!-- /.container -->
+</section><!-- /.flat-why-choose -->
 <section class="flat-team">
     <div class="container">
         <div class="row">
