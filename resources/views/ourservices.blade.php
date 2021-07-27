@@ -32,7 +32,7 @@
                             <h5>Let us do the laundry for your business</h5>
                             <p>Resources cost money—this isn’t a new phenomenon. TORQUE Laundries is finding new ways to reduce the number of resources needed per load of laundry, specifically those that can be detrimental to both the linens and the environment, like the chemicals in detergent.</p>
                             <p>Lastly, since our machines are more efficient in the way they clean laundry, the need for launderers to rewash garments will be reduced, which will also save time. Like its said, time is money, and all of these time savings will add up to you having more money to grow your business.</p>
-                            <a href="#" class="read-more" title="">READ MORE</a>
+                            <a href="{{route('about')}}" class="read-more" title="">READ MORE</a>
                         </div>
                     </div><!-- /.wrap-recent-text -->
                 </div><!-- /.col-md-6 -->
@@ -59,7 +59,7 @@
                             <h5>You Order > We Collect > We Clean > We Deliver</h5>
                             <p>Why waste your precious time doing laundry when you can spend it with your loved ones and still get your laundry done?</p>
                             <p>Our delivery professional will pick up your dirty clothes and deliver clean, fresh, and neatly-folded laundry right back to your door in the shortest time possible.</p>
-                            <a href="#" class="read-more" title="">READ MORE</a>
+                            <a href="{{route('about')}}" class="read-more" title="">READ MORE</a>
                         </div>
                     </div><!-- /.wrap-recent-text -->
                 </div><!-- /.col-md-6 -->
@@ -78,7 +78,7 @@
                             <h5>Drop your laundry off in our Shop, and let us do it all for you.</h5>
                             <p>If you need clean laundry but don't want to do it yourself, then fluff and fold is the service for you. We professionally clean your clothes and linens, and all you do is drop off and pick up from our laundromat .
                             </p>
-                            <a href="#" class="read-more" title="">READ MORE</a>
+                            <a href="{{route('about')}}" class="read-more" title="">READ MORE</a>
                         </div>
                     </div><!-- /.wrap-recent-text -->
                 </div><!-- /.col-md-6 -->
@@ -223,14 +223,14 @@
             <div class="col-md-4">
                 <div class="team-member center">
                     <div class="team-image">
-                        <a href="#" title=""><img src=" {{asset('img/9.jpeg')}}" alt=""></a>
+                        <a href="{{route('our.service')}}" title=""><img src=" {{asset('img/9.jpeg')}}" alt=""></a>
                     </div><!-- /.team-image -->
                     <div class="team-info">
                         <div class="name">
-                            <a href="#" title="">WASH & FOLD SERVICE</a>
+                            <a href="{{route('our.service')}}" title="">WASH & FOLD SERVICE</a>
                         </div>
                         <div>
-                            <a href="#" class="read-more" title="">Read More</a>
+                            <a href="{{route('our.service')}}" class="read-more" title="">Read More</a>
                         </div>
 
                     </div><!-- /.team-info -->
@@ -239,14 +239,14 @@
             <div class="col-md-4">
                 <div class="team-member center">
                     <div class="team-image">
-                        <a href="#" title=""><img src=" {{asset('img/6.jpeg')}}" alt=""></a>
+                        <a href="{{route('our.service')}}" title=""><img src=" {{asset('img/6.jpeg')}}" alt=""></a>
                     </div><!-- /.team-image -->
                     <div class="team-info">
                         <div class="name">
-                            <a href="#" title="">DRY-CLEANING SERVICE</a>
+                            <a href="{{route('our.service')}}" title="">DRY-CLEANING SERVICE</a>
                         </div>
                         <div>
-                            <a href="#" class="read-more" title="">Read More</a>
+                            <a href="{{route('our.service')}}" class="read-more" title="">Read More</a>
                         </div>
 
                     </div><!-- /.team-info -->
@@ -255,14 +255,14 @@
             <div class="col-md-4">
                 <div class="team-member center">
                     <div class="team-image">
-                        <a href="#" title=""><img src=" {{asset('img/8.jpeg')}}" alt=""></a>
+                        <a href="{{route('our.service')}}" title=""><img src=" {{asset('img/8.jpeg')}}" alt=""></a>
                     </div><!-- /.team-image -->
                     <div class="team-info">
                         <div class="name">
-                            <a href="#" title="">IRONING SERVICE</a>
+                            <a href="{{route('our.service')}}" title="">IRONING SERVICE</a>
                         </div>
                         <div>
-                            <a href="#" class="read-more" title="">Read More</a>
+                            <a href="{{route('our.service')}}" class="read-more" title="">Read More</a>
                         </div>
 
                     </div><!-- /.team-info -->

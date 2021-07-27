@@ -10,7 +10,7 @@
                     <div class="content-text">
                         <p>"We began ‘Torque Laundries’ to make an option in contrast to your regular laundry and cleaning background, which time after time includes befuddling evaluating, misty procedures or poor client benefit. An elective where conveyance happens at the tap of a catch and occurs around your calendar. Where individuals are cordial and proficient about the manner in which your garments are dealt with.</p>
                         <p>We are a practical, earth cognizant business, with a mission to keep garments clean while not disregarding your wellbeing, and that of our planet. Our areas are perfect vitality controlled, and our high-effectiveness washers spare a lot of water and power. "</p>
-                        <a href="#" class="read-more" title="">Read More</a>
+                        <a href="{{route('about')}}" class="read-more" title="">Read More</a>
                     </div>
                 </div><!-- /.wrap-recent-text -->
             </div><!-- /.col-md-6 -->
@@ -323,14 +323,14 @@
             <div class="col-md-4">
                 <div class="team-member center">
                     <div class="team-image">
-                        <a href="#" title=""><img src=" {{asset('img/9.jpeg')}}" alt=""></a>
+                        <a href="{{route('our.service')}}" title=""><img src=" {{asset('img/9.jpeg')}}" alt=""></a>
                     </div><!-- /.team-image -->
                     <div class="team-info">
                         <div class="name">
-                            <a href="#" title="">WASH & FOLD SERVICE</a>
+                            <a href="{{route('our.service')}}" title="">WASH & FOLD SERVICE</a>
                         </div>
                         <div>
-                            <a href="#" class="read-more" title="">Read More</a>
+                            <a href="{{route('our.service')}}" class="read-more" title="">Read More</a>
                         </div>
 
                     </div><!-- /.team-info -->
@@ -339,14 +339,14 @@
             <div class="col-md-4">
                 <div class="team-member center">
                     <div class="team-image">
-                        <a href="#" title=""><img src=" {{asset('img/6.jpeg')}}" alt=""></a>
+                        <a href="{{route('our.service')}}" title=""><img src=" {{asset('img/6.jpeg')}}" alt=""></a>
                     </div><!-- /.team-image -->
                     <div class="team-info">
                         <div class="name">
-                            <a href="#" title="">DRY-CLEANING SERVICE</a>
+                            <a href="{{route('our.service')}}" title="">DRY-CLEANING SERVICE</a>
                         </div>
                         <div>
-                            <a href="#" class="read-more" title="">Read More</a>
+                            <a href="{{route('our.service')}}" class="read-more" title="">Read More</a>
                         </div>
 
                     </div><!-- /.team-info -->
@@ -355,14 +355,14 @@
             <div class="col-md-4">
                 <div class="team-member center">
                     <div class="team-image">
-                        <a href="#" title=""><img src=" {{asset('img/8.jpeg')}}" alt=""></a>
+                        <a href="{{route('our.service')}}" title=""><img src=" {{asset('img/8.jpeg')}}" alt=""></a>
                     </div><!-- /.team-image -->
                     <div class="team-info">
                         <div class="name">
-                            <a href="#" title="">IRONING SERVICE</a>
+                            <a href="{{route('our.service')}}" title="">IRONING SERVICE</a>
                         </div>
                         <div>
-                            <a href="#" class="read-more" title="">Read More</a>
+                            <a href="{{route('our.service')}}" class="read-more" title="">Read More</a>
                         </div>
 
                     </div><!-- /.team-info -->

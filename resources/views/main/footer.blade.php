@@ -7,26 +7,25 @@
                         <div class="widget widget-about">
                             <div class="widget-text">
                                 <div id="logo-ft">
-                                    <a href="#" title="">
+                                    <a href="{{route('about')}}" title="">
                                         <h4 class="widget-title">TORQUE LAUNDRIES</h4>
                                     </a>
                                 </div>
                                 We are a practical, earth cognizant business, with a mission to keep garments clean while not disregarding your wellbeing, and that of our planet. Our areas are perfect vitality controlled, and our high-effectiveness washers spare a lot of water and power.
                             </div>
-
                         </div><!-- /.widget-about -->
                     </div><!-- /.col-md-4 -->
                     <div class="col-md-4">
                         <div class="widget widget_nav_menu">
                             <h4 class="widget-title">QUICK LINK</h4>
                             <ul class="list-unstyled quick-links">
-                                <li><a href="">Home</a></li>
-                                <li><a href="">About Us</a></li>
-                                <li><a href="">Our Services</a></li>
-                                <li><a href="">Contact</a></li>
-
+                                <ul class="menu-footer">
+                                    <li><a href="{{url('/')}}" title=""><i class="fa fa-angle-double-right"></i>Home</a></li>
+                                    <li><a href="{{route('about')}}" title=""><i class="fa fa-angle-double-right"></i>About Us</a></li>
+                                    <li><a href="{{route('our.service')}}" title=""><i class="fa fa-angle-double-right"></i>Our Services</a></li>
+                                    <li><a href="{{route('contact')}}" title=""><i class="fa fa-angle-double-right"></i>Contact</a></li>
+                                </ul>
                             </ul>
-
                             <div class="clearfix"></div>
                         </div><!-- /.widget_nav_menu -->
                     </div><!-- /.col-md-4 -->

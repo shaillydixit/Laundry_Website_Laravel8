@@ -876,7 +876,7 @@ ul.box-account li.sign-in:before {
 .btn-menu:before,
 .btn-menu:after, 
 .btn-menu span {
-	background-color: #009fe1;
+	background-color: black;
     -webkit-transition: all ease .238s;
        -moz-transition: all ease .238s;
             transition: all ease .238s;

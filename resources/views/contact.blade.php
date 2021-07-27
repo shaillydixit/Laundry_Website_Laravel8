@@ -23,7 +23,7 @@
                     </div><!-- /.box-header -->
                     <div class="box-content">
                         <h2>Address</h2>
-                        <p>Riverbank colony , Lucknow</p>
+                        <p>30 Balaji Enclave, Muttakkipur, IIM Road, Lucknow - 226020</p>
                     </div><!-- /.box-content -->
                 </div><!-- /.address-box -->
             </div><!-- /.col-md-4 -->
@@ -36,7 +36,7 @@
                     </div><!-- /.box-header -->
                     <div class="box-content">
                         <h2>Phone number</h2>
-                        <p>+91-9910341803</p>
+                        <p>+91-9792923535</p>
                     </div><!-- /.box-content -->
                 </div><!-- /.address-box -->
             </div><!-- /.col-md-4 -->
@@ -59,49 +59,42 @@
 <section class="flat-map">
     <div class="container">
         <div class="row">
-            <div class="col-md-12">
+            <div class="col-md-6">
                 <section class="pdmap" id="flat-map">
-                    <div class="flat-maps" data-address="383 Fourth Street, Old Town, ME 04468, Hoa Kỳ" data-height="500" data-image="images/icon/map.png" data-name="Themesflat Map"></div>
-                    <div class="gm-map">
-                        <div class="map box-shadow"></div>
-                    </div>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4440.335089358006!2d80.92130969017427!3d26.86472251081894!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399bfdfa45aa4e27%3A0x40b4db26e9cefc7c!2sTorque%20Laundries!5e0!3m2!1sen!2sin!4v1627426543311!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                 </section><!-- /#flat-map -->
             </div><!-- /.col-md-12 -->
+            <div class="col-md-6">
+                <section>
+                    <div class="top-title center">
+                        <h2>CONTACT WITH US</h2>
+                        <p>We'll help you resolve your issues quickly and easily.</p>
+                    </div>
+                    <div class="form-contact-form">
+                        <form accept-charset="utf-8">
+                            <div id="subscribe-content-1">
+                                <div class="field-row">
+                                    <div class="contact-form-name contact-form">
+                                        <input type="text" name="name" id="name" placeholder="Your Name" required="" />
+                                    </div>
+                                    <div class="contact-form-email contact-form">
+                                        <input type="text" name="email" id="email" placeholder="Your Email" required="" />
+                                    </div>
+                                </div>
+                                <div class="contact-form-comment contact-form">
+                                    <textarea name="message" id="message" placeholder="Your Message" required=""></textarea>
+                                </div>
+                                <div class="btn-contact-form mb-5 center">
+                                    <button type="submit" class="btn btn-info">SEND MESSAGE</button>
+                                </div>
+                            </div>
+                        </form><!-- /form -->
+                    </div><!-- /.form-contact-form -->
+                </section>
+            </div>
         </div><!-- /.row -->
     </div><!-- /.container -->
 </section><!-- /.flat-map -->
 
-<!-- <section class="flat-row flat-contact-form">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12">
-						<div class="top-title center">
-							<h2>CONTACT WITH US</h2>
-							<p>We'll help you resolve your issues quickly and easily.</p>
-						</div>
-						<div class="form-contact-form">
-							<form id="contactform" action="./contact/contact-process.php" method="post" accept-charset="utf-8">
-								<div id="subscribe-content-1">
-									<div class="field-row">
-										<div class="contact-form-name contact-form">
-											<input type="text" name="name" id="name" placeholder="Your Name" required="" />
-										</div>
-										<div class="contact-form-email contact-form">
-											<input type="text" name="email" id="email" placeholder="Your Email" required="" />
-										</div>
-									</div>
-									<div class="contact-form-comment contact-form">
-										<textarea name="message" id="message" placeholder="Your Message" required=""></textarea>
-									</div>
-									<div class="btn-contact-form center">
-										<button type="submit" class="flat-button-form border-radius-2">SEND MESSAGE</button>
-									</div>
-								</div>
-							</form>
-</div>
-</div>
-</div>
-</div>
-</section> -->
-<!-- /.flat-contact-form -->
+
 @endsection
