@@ -12,11 +12,11 @@
 
                     <li class="phone"><a href="" title="phone">Call Us: +91-9910341803</a></li>
                 </ul><!-- /.flat-infomation -->
-                < <div class="clearfix">
-            </div><!-- /.clearfix -->
-        </div><!-- /.col-md-12 -->
-    </div><!-- /.row -->
-</div><!-- /.container -->
+                <div class="clearfix">
+                </div><!-- /.clearfix -->
+            </div><!-- /.col-md-12 -->
+        </div><!-- /.row -->
+    </div><!-- /.container -->
 </div><!-- /.themesflat-top -->
 
 <header id="header" class="header bg-color">

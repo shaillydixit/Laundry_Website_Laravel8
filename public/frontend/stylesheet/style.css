@@ -552,7 +552,7 @@ ul.box-account li.sign-in:before {
 ---------------------------------------------------------------*/
 .header {
 	position: relative;
-	background-color: #ffffff;	
+	background-color: #009fe1;	
 	-webkit-transition: all 0.3s ease-in-out;
        -moz-transition: all 0.3s ease-in-out;
         -ms-transition: all 0.3s ease-in-out;
@@ -570,7 +570,7 @@ ul.box-account li.sign-in:before {
 	left: 0;
 	top: 0;
 	z-index: 1005;
-	background-color: #ffffff;
+	background-color: #009fe1;
 	width: 100%;
 }
 
@@ -691,15 +691,15 @@ ul.box-account li.sign-in:before {
 	line-height: 80px;
 	display: block;
 	padding: 0 20px;
-	color: #000002;
+	color: white;
 	font-weight: 600;
 	text-transform: uppercase;
 	position: relative;
 }
 
-#mainnav .menu > li.active > a,
+
 #mainnav .menu > li > a:hover {
-	color: #009fe1;
+	color: black;
 }
 
 #mainnav .menu > li:last-child a {
@@ -1057,7 +1057,7 @@ ul.box-account li.sign-in:before {
 /* Footer Background
 ---------------------------------------------------------------*/
 #footer_background {
-	background: url(../images/parallax/bg-footer.jpg) center center repeat;
+	background-color: #009fe1;
 }
 
 /* Footer */
@@ -1072,9 +1072,9 @@ ul.box-account li.sign-in:before {
 }
 
 .footer-widgets .widget .widget-title {
-	color: #009fe1;
-	font-weight: 600;
-	margin-bottom: 16px;
+	color: white;
+	font-weight: 400;
+	margin-bottom: 12px;
 }
 
 /* Widget About */
@@ -1088,6 +1088,7 @@ ul.box-account li.sign-in:before {
 
 .widget-about .widget-text {
 	margin-bottom: 32px;
+	color: white;
 }
 
 .widget-about .widget-text p {
@@ -1138,7 +1139,7 @@ ul.box-account li.sign-in:before {
 }
 
 .widget_nav_menu .menu-footer li a:not(:hover) {
-	color: #c0c0c0;
+	color: white;
 }
 
 /* Widget Contact */
@@ -1154,10 +1155,11 @@ ul.box-account li.sign-in:before {
 .widget_contact .contact-list li {
 	line-height: 24px;
 	margin-bottom: 6px;
+	color: white;
 }
 
 .widget_contact .contact-list li span {
-	color: #fff;
+	color: white;
 }
 
 /* Widget Themesflat Socials */
@@ -1198,7 +1200,7 @@ ul.box-account li.sign-in:before {
     right: 15px;
     height: 1px;
     width: calc(100% - 30px);
-    background: rgba(255, 255, 255, 0.1);
+    background: #009fe1;
     top: 0;
 }
 

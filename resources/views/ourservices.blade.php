@@ -271,21 +271,5 @@
         </div><!-- /.row -->
     </div><!-- /.container -->
 </section><!-- /.flat-team -->
-<section class="flat-call-back">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="wrap-call-back">
-                    <div class="title">
-                        <h2>DO YOU NEED A CONSULTANT?</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce accumsan tristique lorem, nec vehicula sem aliquam ut. Duis at dictum eros. sodales mauris in ante tempus</p>
-                    </div>
-                    <div class="btn-call-back">
-                        <a href="#" title="">Click to Consultant</a>
-                    </div>
-                </div><!-- /.wrap-call-back -->
-            </div><!-- /.col-md-12 -->
-        </div><!-- /.row -->
-    </div><!-- /.container -->
-</section><!-- /.flat-call-back -->
+
 @endsection

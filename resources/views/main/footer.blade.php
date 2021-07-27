@@ -8,7 +8,7 @@
                             <div class="widget-text">
                                 <div id="logo-ft">
                                     <a href="#" title="">
-                                        <h3 class="widget-title">TORQUE LAUNDRIES</h3>
+                                        <h4 class="widget-title">TORQUE LAUNDRIES</h4>
                                     </a>
                                 </div>
                                 We are a practical, earth cognizant business, with a mission to keep garments clean while not disregarding your wellbeing, and that of our planet. Our areas are perfect vitality controlled, and our high-effectiveness washers spare a lot of water and power.
@@ -18,12 +18,12 @@
                     </div><!-- /.col-md-4 -->
                     <div class="col-md-4">
                         <div class="widget widget_nav_menu">
-                            <h3 class="widget-title">QUICK LINK</h3>
+                            <h4 class="widget-title">QUICK LINK</h4>
                             <ul class="list-unstyled quick-links">
-                                <li><a href="index.html">Home</a></li>
-                                <li><a href="about.html">About Us</a></li>
-                                <li><a href="services.html">Our Services</a></li>
-                                <li><a href="contact.html">Contact</a></li>
+                                <li><a href="">Home</a></li>
+                                <li><a href="">About Us</a></li>
+                                <li><a href="">Our Services</a></li>
+                                <li><a href="">Contact</a></li>
 
                             </ul>
 
@@ -32,7 +32,7 @@
                     </div><!-- /.col-md-4 -->
                     <div class="col-md-4">
                         <div class="widget widget_contact">
-                            <h3 class="widget-title">CONTACT</h3>
+                            <h4 class="widget-title">CONTACT</h4>
                             <ul class="contact-list">
                                 <li>
                                     Address: Riverbank colony , Lucknow
@@ -87,7 +87,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="copyright">
-                    <p>Copyright © 2021 <span> <a href="https://digitalsearchtech.com/" title="">Digital Search Technologies Pvt Ltd</a>
+                    <p style="color:aliceblue;">Copyright © 2021 <span> <a href="https://digitalsearchtech.com/" title="">Digital Search Technologies Pvt Ltd</a>
                         </span>
                     </p>
                 </div>
