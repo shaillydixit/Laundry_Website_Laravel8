@@ -35,10 +35,10 @@
                             <h4 class="widget-title">CONTACT</h4>
                             <ul class="contact-list">
                                 <li>
-                                    Address: Riverbank colony , Lucknow
+                                    Address: 30 Balaji Enclave, Muttakkipur, IIM Road, Lucknow - 226020
                                 </li>
                                 <li>
-                                    Phone: +91-9910341803
+                                    Phone: +91-9792923535
                                 </li>
                                 <li>
                                     Email: torquelaundries@gmail.com

@@ -10,7 +10,7 @@
 
                     <li class="email"><a href="" title="email">Email: torquelaundries@gmail.com</a></li>
 
-                    <li class="phone"><a href="" title="phone">Call Us: +91-9910341803</a></li>
+                    <li class="phone"><a href="" title="phone">Call Us: +91-9792923535</a></li>
                 </ul><!-- /.flat-infomation -->
                 <div class="clearfix">
                 </div><!-- /.clearfix -->
@@ -25,7 +25,7 @@
             <div class="header-wrap">
                 <div id="logo" class="logo">
                     <a href="index.html" title="">
-                        <img src=" {{asset('img/1.jpeg')}}" style="width: 100px; height:auto;" alt="" />
+                        <img src=" {{asset('img/transparent.png')}}" style="width: 120px; height:auto;" alt="" />
                     </a>
                 </div><!-- /#logo -->
 

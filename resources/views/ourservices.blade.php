@@ -84,7 +84,7 @@
                 </div><!-- /.col-md-6 -->
                 <div class="col-md-6">
                     <div class="single-image center">
-                        <img src="{{asset('img/13.jpeg')}}" alt="">
+                        <img src="{{asset('img/rem.png')}}" alt="">
                     </div>
                 </div><!-- /.col-md-6 -->
             </div><!-- /.row -->

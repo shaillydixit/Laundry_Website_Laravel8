@@ -114,7 +114,7 @@
                     </div><!-- /.box-left -->
                     <div class="box-center">
                         <div class="single-image">
-                            <img src="{images/page/coin.png}" alt="">
+                            <img src="{{asset('img/aa.png')}}" alt="">
                         </div>
                     </div><!-- /.box-center -->
                     <div class="box-right">
