@@ -85,7 +85,7 @@
                                     <textarea name="message" id="message" placeholder="Your Message" required=""></textarea>
                                 </div>
                                 <div class="btn-contact-form mb-5 center">
-                                    <button type="submit" class="btn btn-info">SEND MESSAGE</button>
+                                    <button type="submit" class="btn btn-info" style="background: #009fe1; color: white;">SEND MESSAGE</button>
                                 </div>
                             </div>
                         </form><!-- /form -->

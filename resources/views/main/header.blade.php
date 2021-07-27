@@ -40,7 +40,7 @@
                                 <a href="{{url('/')}}" title="">HOME</a>
                             </li>
                             <li>
-                                <a href="{{route('about')}}" title="">ABOUT</a>
+                                <a href="{{route('about')}}" title="">ABOUT US</a>
                             </li>
 
                             <li>
@@ -48,9 +48,6 @@
                             </li>
                             <li>
                                 <a href="{{route('contact')}}" title="">CONTACT</a>
-                            </li>
-                            <li>
-                                <a href="contact.html" title="">LOCATE US</a>
                             </li>
                         </ul><!-- /.menu -->
                     </nav><!-- /#mainnav -->
