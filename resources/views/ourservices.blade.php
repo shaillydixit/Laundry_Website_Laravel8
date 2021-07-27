@@ -26,26 +26,15 @@
                 <div class="wrap-iconbox">
                     <div class="iconbox inline-left style4">
                         <div class="icon">
-                            <img src=" {{asset('img/check.png')}}" alt="">
+                            <img src=" {{asset('img/delivery-car.png')}}" alt="">
                         </div>
                         <div class="number">
                             1
                         </div>
                         <div class="iconbox-content">
-                            <h4><a href="#" title="">WE OFFER QUALITY WORK</a></h4>
-                            <p>Our well-trained staff will provide you with high-quality services.</p>
-                        </div>
-                    </div><!-- /.iconbox style4 -->
-                    <div class="iconbox inline-left style4">
-                        <div class="icon">
-                            <img src=" {{asset('img/offer.png')}}" alt="">
-                        </div>
-                        <div class="number">
-                            2
-                        </div>
-                        <div class="iconbox-content">
-                            <h4><a href="#" title="">OUR PRICES ARE AFFORDABLE</a></h4>
-                            <p>Simply select a service and request a price; you'll be delighted!</p>
+                            <h4><a href="#" title="">Convenient and Free Pickup and Drop </a></h4>
+                            <p>Free pick-up and delivery at your doorsteps so that you can enjoy hassle-free laundry services
+                            </p>
                         </div>
                     </div><!-- /.iconbox style4 -->
                     <div class="iconbox inline-left style4">
@@ -53,18 +42,80 @@
                             <img src=" {{asset('img/staff.png')}}" alt="">
                         </div>
                         <div class="number">
+                            2
+                        </div>
+                        <div class="iconbox-content">
+                            <h4><a href="#" title="">Professionally Trained Garments Care Experts</a></h4>
+                            <p>All experts at "TORQUE Laundries" practice professional world class process to take care your garments</p>
+                        </div>
+                    </div><!-- /.iconbox style4 -->
+                    <div class="iconbox inline-left style4">
+                        <div class="icon">
+                            <img src=" {{asset('img/mobile-phone.png')}}" alt="">
+                        </div>
+                        <div class="number">
                             3
                         </div>
                         <div class="iconbox-content">
-                            <h4><a href="#" title="">WE HAVE TRAINED STAFF</a></h4>
-                            <p>We offer excellent laundry services in Lucknow!</p>
+                            <h4><a href="#" title="">Easy to Use Mobile Application</a></h4>
+                            <p>Mobile platform lets you keep track of everything in one place</p>
                         </div>
                     </div><!-- /.iconbox style4 -->
+
                 </div><!-- /.wrap-iconbox -->
             </div><!-- /.col-md-6 -->
             <div class="col-md-6">
                 <div class="single-image">
-                    <img src=" {{asset('img/7.jpeg')}}" alt="">
+                    <img src=" {{asset('img/19.jpeg')}}" alt="">
+                </div>
+            </div><!-- /.col-md-6 -->
+        </div><!-- /.row -->
+        <br><br>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="wrap-iconbox">
+                    <div class="iconbox inline-left style4">
+                        <div class="icon">
+                            <img src=" {{asset('img/support.png')}}" alt="">
+                        </div>
+                        <div class="number">
+                            4
+                        </div>
+                        <div class="iconbox-content">
+                            <h4><a href="#" title="">Committed Service Support</a></h4>
+                            <p>We are Committed to our customers and we draw strength from their faith onourability to help them better than others</p>
+                        </div>
+                    </div><!-- /.iconbox style4 -->
+                    <div class="iconbox inline-left style4">
+                        <div class="icon">
+                            <img src=" {{asset('img/offer.png')}}" alt="">
+                        </div>
+                        <div class="number">
+                            5
+                        </div>
+                        <div class="iconbox-content">
+                            <h4><a href="#" title="">Affordable</a></h4>
+                            <p>"TORQUE Laundries" is a quick, efficient and cost effective way to get your laundry done</p>
+                        </div>
+                    </div><!-- /.iconbox style4 -->
+                    <div class="iconbox inline-left style4">
+                        <div class="icon">
+                            <img src=" {{asset('img/fast-processing.png')}}" alt="">
+                        </div>
+                        <div class="number">
+                            6
+                        </div>
+                        <div class="iconbox-content">
+                            <h4><a href="#" title="">Fast Processing</a></h4>
+                            <p>We ensure that you get your garments laundered within committ edtime</p>
+                        </div>
+                    </div><!-- /.iconbox style4 -->
+
+                </div><!-- /.wrap-iconbox -->
+            </div><!-- /.col-md-6 -->
+            <div class="col-md-6">
+                <div class="single-image">
+                    <img src=" {{asset('img/26.jpeg')}}" alt="">
                 </div>
             </div><!-- /.col-md-6 -->
         </div><!-- /.row -->

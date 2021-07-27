@@ -40,8 +40,8 @@
                 <div class="wrap-recent-text">
                     <h2 class="title">What We Do</h2>
                     <div class="content-text">
-                        <p>"We began ‘Torque Laundries’ to make an option in contrast to your regular laundry and cleaning background, which time after time includes befuddling evaluating, misty procedures or poor client benefit. An elective where conveyance happens at the tap of a catch and occurs around your calendar. Where individuals are cordial and proficient about the manner in which your garments are dealt with.</p>
-                        <p>We are a practical, earth cognizant business, with a mission to keep garments clean while not disregarding your wellbeing, and that of our planet. Our areas are perfect vitality controlled, and our high-effectiveness washers spare a lot of water and power. "</p>
+                        <p>"With our expert personnel, we have our own laundry equipment for washing, ironing, and dry-cleaning the clothes. When we receive an order from a client, we immediately send the cloths to them and begin the process of washing the garments. We then conduct the operations as per your instructions and give the clothes back to your doorstep. </p>
+                        <p>We're attempting to meet the needs of both individual customers and customers who are part of large social orders. We believe that by putting in continued effort in finding ways to help improve our business and meet our clients' needs, we will be able to achieve client loyalty."</p>
                         <a href="#" class="read-more" title="">Read More</a>
                     </div>
                 </div><!-- /.wrap-recent-text -->
