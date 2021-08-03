@@ -24,8 +24,8 @@
         <div class="row">
             <div class="header-wrap">
                 <div id="logo" class="logo">
-                    <a href="index.html" title="">
-                        <img src=" {{asset('img/transparent.png')}}" style="width: 120px; height:auto;" alt="" />
+                    <a href="{{url('/')}}" title="">
+                        <img src=" {{asset('img/1.jpeg')}}" style="width: 120px; height:auto;" alt="" />
                     </a>
                 </div><!-- /#logo -->
 
@@ -45,6 +45,10 @@
 
                             <li>
                                 <a href="{{route('our.service')}}" title="">OUR SERVICES</a>
+                            </li>
+
+                            <li>
+                                <a href="{{route('pricing')}}" title="">Our Pricing</a>
                             </li>
                             <li>
                                 <a href="{{route('contact')}}" title="">CONTACT</a>

@@ -44,31 +44,40 @@
                                 </li>
                             </ul>
 
-
+                            <!-- GetButton.io widget -->
+                            <script type="text/javascript">
+                                (function() {
+                                    var options = {
+                                        whatsapp: "+91-9792923535", // WhatsApp number
+                                        call: "+91-9792923535", // Call phone number
+                                        call_to_action: "Message us", // Call to action
+                                        button_color: "#FF6550", // Color of button
+                                        position: "left", // Position may be 'right' or 'left'
+                                        order: "whatsapp,call", // Order of buttons
+                                    };
+                                    var proto = document.location.protocol,
+                                        host = "getbutton.io",
+                                        url = proto + "//static." + host;
+                                    var s = document.createElement('script');
+                                    s.type = 'text/javascript';
+                                    s.async = true;
+                                    s.src = url + '/widget-send-button/js/init.js';
+                                    s.onload = function() {
+                                        WhWidgetSendButton.init(host, proto, options);
+                                    };
+                                    var x = document.getElementsByTagName('script')[0];
+                                    x.parentNode.insertBefore(s, x);
+                                })();
+                            </script>
+                            <!-- /GetButton.io widget -->
                             <div class="widget widget_themesflat_socials">
                                 <ul class="themesflat-shortcode-socials">
                                     <li class="facebook">
                                         <a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a>
                                     </li>
-
-                                    <li class="twitter">
-                                        <a href="#" title="">
-                                            <i class="fa fa-twitter"></i>
-                                        </a>
-                                    </li>
-                                    <li class="google-plus">
-                                        <a href="#" title="">
-                                            <i class="fa fa-google-plus"></i>
-                                        </a>
-                                    </li>
                                     <li class="instagram">
                                         <a href="#" title="">
                                             <i class="fa fa-instagram"></i>
-                                        </a>
-                                    </li>
-                                    <li class="linkedin">
-                                        <a href="#" title="">
-                                            <i class="fa fa-linkedin"></i>
                                         </a>
                                     </li>
                                 </ul>
@@ -86,7 +95,8 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="copyright">
-                    <p style="color:aliceblue;">Copyright © 2021 <span> <a href="https://digitalsearchtech.com/" title="">Digital Search Technologies Pvt Ltd</a>
+                    <p style="color:aliceblue;">Copyright © 2021- Torque Laundries. All Right Reserved. <br>
+                        <span> Developed by <a href="https://digitalsearchtech.com/" title="">Digital Search Technologies Pvt Ltd</a>
                         </span>
                     </p>
                 </div>

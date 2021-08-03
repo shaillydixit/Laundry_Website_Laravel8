@@ -22,4 +22,9 @@ class FrontendController extends Controller
     {
         return view('ourservices');
     }
+
+    public function Pricing()
+    {
+        return view('pricing');
+    }
 }

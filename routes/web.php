@@ -23,4 +23,6 @@ Route::get('aboutus', [FrontendController::class, 'About'])->name('about');
 
 Route::get('ourservices', [FrontendController::class, 'OurServices'])->name('our.service');
 
+Route::get('pricing', [FrontendController::class, 'Pricing'])->name('pricing');
+
 Route::get('contactus', [FrontendController::class, 'Contact'])->name('contact');
