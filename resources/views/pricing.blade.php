@@ -303,7 +303,7 @@
 
                     <tr class=''>
                         <td class='text ' data-title=''>SPOT CLEANING</td>
-                        <td class='text ' data-title='BASIC'>YES</td>
+                        <td class='text ' data-title='BASIC'><i class="fa fa-check-square fa-2x" aria-hidden="true"></i></td>
                         <td class='text ' data-title='GOLD'>YES</td>
                         <td class='text ' data-title='PLATINUM'>YES</td>
                     </tr>
