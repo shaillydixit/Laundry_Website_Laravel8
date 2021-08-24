@@ -27,4 +27,9 @@ class FrontendController extends Controller
     {
         return view('pricing');
     }
+
+    public function TermAndConditions()
+    {
+        return view('terms');
+    }
 }

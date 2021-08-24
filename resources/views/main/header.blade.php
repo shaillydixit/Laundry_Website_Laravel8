@@ -51,6 +51,9 @@
                                 <a href="{{route('pricing')}}" title="">Our Pricing</a>
                             </li>
                             <li>
+                                <a href="{{route('terms')}}" title="">TERMS & CONDITIONS</a>
+                            </li>
+                            <li>
                                 <a href="{{route('contact')}}" title="">CONTACT</a>
                             </li>
                         </ul><!-- /.menu -->
